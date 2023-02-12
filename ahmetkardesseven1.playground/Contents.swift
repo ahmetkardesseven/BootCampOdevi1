@@ -1,5 +1,6 @@
 import UIKit
-
+//tanımlama yapıldı.
+//Bootcamp 1. ödev
 
 var sehir:String = "nevsehir"
 var ülke:String = "Türkiye"
